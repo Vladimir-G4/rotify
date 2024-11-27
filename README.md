@@ -12,6 +12,14 @@ Rotify is a competitive brainrot knowledge app where players go head-to-head in 
 - **Minimalist Design**: Simple, sleek UI for easy navigation.
 - **Brainrot Fun**: Embrace chaos while sharpening your wit.
 
+
+## Team
+* Vladimir Guttierez
+* Julia Lam
+* Brian Zou
+* Dylan Ton-That
+
+
 ---
 ## License
 
