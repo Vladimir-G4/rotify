@@ -4,6 +4,7 @@ Rotify is a competitive brainrot knowledge app where players go head-to-head in 
 
 ---
 
+
 ## Features
 
 - **1v1 Knowledge Battles**: Challenge friends or random players in intense trivia matches.
@@ -12,6 +13,29 @@ Rotify is a competitive brainrot knowledge app where players go head-to-head in 
 - **Minimalist Design**: Simple, sleek UI for easy navigation.
 - **Brainrot Fun**: Embrace chaos while sharpening your wit.
 
+
+---
+
+## How to run
+
+### Frontend run
+```
+cd frontend
+npm install
+npm install -g @angular/cli
+ng serve
+
+```
+
+
+
+### Backend run
+```
+cd backend
+npm install
+node server.js
+
+```
 
 ## Team
 * Vladimir Guttierez
