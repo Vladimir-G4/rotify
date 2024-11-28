@@ -1,55 +1,63 @@
-# Rotify
-
-Rotify is a competitive brainrot knowledge app where players go head-to-head in a battle of wits. Winners are rewarded with fire memes and aura points, while losers walk away empty-handed. Featuring a global leaderboard, Rotify combines chaotic fun with competitive spirit. Rot on.
-
----
-
-
-## Features
-
-- **1v1 Knowledge Battles**: Challenge friends or random players in intense trivia matches.
-- **Meme & Aura Point Rewards**: Winners receive exclusive memes and aura points as prizes.
-- **Global Leaderboard**: See how you rank against players worldwide.
-- **Minimalist Design**: Simple, sleek UI for easy navigation.
-- **Brainrot Fun**: Embrace chaos while sharpening your wit.
-
+# Rotify: Where Trivia Meets Brainrot  
+Rotify is the knowledge app you didn’t know you needed—because who wouldn’t want to turn brainpower into memes? Challenge your friends (or total strangers) to trivia duels, climb the global leaderboard, and collect aura points like they’re going out of style. Winners bask in the glow of irony-fueled rewards. Losers? They’ll have to rot on their own time.  
 
 ---
 
-## How to run
-
-### Frontend run
-```
-cd frontend
-npm install
-npm install -g @angular/cli
-ng serve
-
-```
-
-
-
-### Backend run
-```
-cd backend
-npm install
-node server.js
-
-```
-
-## Team
-* Vladimir Guttierez
-* Julia Lam
-* Brian Zou
-* Dylan Ton-That
-
+## Features  
+- **1v1 Trivia Duels**: Flex your knowledge muscles in head-to-head trivia battles. It’s like chess, but without all the pieces (or dignity).  
+- **Meme & Aura Point Prizes**: Win and unlock exclusive memes that only a true trivia overlord could appreciate. Aura points not included in life insurance policies.  
+- **Global Leaderboard**: Because nothing says “I’ve made it” like seeing your name slightly above someone else’s on a list.  
+- **Minimalist Design**: So sleek it’s almost like we forgot to add features.  
+- **Brainrot Fun**: Sharpen your mind while embracing the chaos of knowledge you’ll never need at dinner parties.  
 
 ---
-## License
 
-Rotify is licensed under the MIT License.
+## How to Run  
 
-## Acknowledgments
+### Frontend  
+To get the frontend up and running, follow these steps:
 
-Thanks to the Brainrot Hackathon for inspiring this project.
-Memes sourced from the best corners of the internet.
+```bash  
+cd frontend  
+npm install  
+npm install -g @angular/cli  
+ng serve  
+```
+Congratulations! You’ve officially entered the arena of intellectual chaos.
+
+### Backend  
+To get the backend operational, execute these commands:
+
+```bash
+cd backend  
+npm install  
+node server.js  
+```
+
+Your server is running—don’t worry, we only track some of your data.
+
+---
+
+## The Team Behind the Rot  
+Meet the team that made this madness possible:
+
+- **Vladimir Guttierez**  
+- **Julia Lam**  
+- **Brian Zou**  
+- **Dylan Ton-That**  
+
+If you want to blame someone, you know who to contact.
+
+---
+
+## License  
+Rotify operates under the [MIT License](LICENSE). Feel free to fork, clone, or laugh at our code.
+
+---
+
+## Acknowledgments  
+A big thanks to the **Brainrot Hackathon** for reminding us that knowledge and memes are the ultimate currencies. Memes were sourced from the farthest reaches of the internet (and some places we wish we could forget).
+
+---
+
+Rot responsibly.
