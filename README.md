@@ -1,5 +1,5 @@
-# Rotify: Where Trivia Meets Brainrot 🤓🎭  
-Rotify is the knowledge app you didn’t know you needed—because who wouldn’t want to turn brainpower into memes? Challenge your friends (or total strangers) to trivia duels, climb the global leaderboard, and collect aura points like they’re going out of style. Winners bask in the glow of irony-fueled rewards. Losers? They’ll have to rot on their own time. 💀  
+# Rotify: Those who Know 💀
+Rotify is the knowledge app you didn’t know you needed—because who wouldn’t want to turn brainpower into memes? Challenge your friends (or total strangers) to trivia duels, climb the global leaderboard, and collect aura points like they’re going out of style. Winners bask in the glow of irony-fueled rewards. Losers? They’ll have to rot on their own time.   
 
 ---
 
@@ -60,3 +60,6 @@ A big thanks to the **Brainrot Hackathon** for reminding us that knowledge and m
 ---
 
 Rot responsibly. 🧠
+
+#HawkTuah #DrippyCheese #Ohio #Skibi #FanumTax #Rizzler #BabyGronk #YoungSheldon #KaiCenat #ThickofIt #Crashout #BalkanRage #WhatTheSigma #LebronJamesHairline #FineShyts #Huzz
+
