@@ -55,7 +55,7 @@ Rotify operates under the [MIT License](LICENSE). Feel free to fork, clone, or l
 ---
 
 ## Acknowledgments 🙌  
-A big thanks to the **Brainrot Hackathon** for reminding us that knowledge and memes are the ultimate currencies. Memes were sourced from the farthest reaches of the internet (and some places we wish we could forget). 🌐  
+A big thanks to the **Brainrot Hackathon** for reminding us that knowledge and memes are the ultimate currencies. Memes were sourced from the farthest reaches of the internet (and some places we wish we could forget). 🌐  [Special shoutout to ouck tuah ily bae]
 
 ---
 
