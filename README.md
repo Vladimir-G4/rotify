@@ -61,5 +61,5 @@ A big thanks to the **Brainrot Hackathon** for reminding us that knowledge and m
 
 Rot responsibly. 🧠
 
-#HawkTuah #DrippyCheese #Ohio #Skibi #FanumTax #Rizzler #BabyGronk #YoungSheldon #KaiCenat #ThickofIt #Crashout #BalkanRage #WhatTheSigma #LebronJamesHairline #FineShyts #Huzz
+#HawkTuah #DrippyCheese #Ohio #Skibi #FanumTax #Rizzler #Aura #BabyGronk #YoungSheldon #KaiCenat #ThickofIt #Crashout #BalkanRage #WhatTheSigma #LebronJamesHairline #FineShyts #Huzz 
 
